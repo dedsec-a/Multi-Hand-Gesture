@@ -3,4 +3,6 @@ numpy
 mediapipe
 opencv-python
 scikit-learn
+pycaw
+pyautogui
 
