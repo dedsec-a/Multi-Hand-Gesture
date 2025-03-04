@@ -1,4 +1,6 @@
 pandas 
 numpy
 mediapipe
-opencv-python 
+opencv-python
+scikit-learn
+
